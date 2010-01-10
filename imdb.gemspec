@@ -30,6 +30,7 @@ Gem::Specification.new do |s|
      "lib/imdb.rb",
      "lib/imdb/cli.rb",
      "lib/imdb/movie.rb",
+     "lib/imdb/movie_details.rb",
      "lib/imdb/movie_list.rb",
      "lib/imdb/search.rb",
      "lib/imdb/string_extensions.rb",
